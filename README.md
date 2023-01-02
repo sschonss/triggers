@@ -1,4 +1,4 @@
-# Trigger
+# Triggers
 
 ### O que é, para que serve, quando e como usar?
 
